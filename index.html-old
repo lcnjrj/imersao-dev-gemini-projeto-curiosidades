@@ -1,0 +1,7 @@
+<header>
+    <h1>Terminal de Curiosidades</h1>
+    <div>
+        <input type="text" placeholder="Busque por Música, Linux, Cinema..." id="campo-busca">
+        <button id="botao-busca">Buscar</button>
+    </div>
+</header>

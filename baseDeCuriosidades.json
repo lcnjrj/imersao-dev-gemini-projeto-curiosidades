@@ -1,0 +1,552 @@
+[
+    {
+        "titulo": "CGI de Avatar",
+        "curiosidade": "O CGI de Avatar (Linux): Os estúdios de VFX (Weta Digital/Lightstorm) renderizam a maioria dos efeitos visuais de Avatar em render farms que utilizam o sistema operacional Linux (especificamente Ubuntu), escolhido por sua estabilidade, escalabilidade e código aberto.",
+        "temas": [
+            "Cinema",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "História dos sintetizadores modulares e design de som.",
+        "id": 1
+    },
+    {
+        "titulo": "Pixar e o Poder do Pinguim na Animação 3D",
+        "curiosidade": "A Pixar, gigante da animação digital, utiliza amplamente sistemas Linux em suas render farms e estações de trabalho. Essa escolha não é apenas econômica, mas estratégica: o código aberto e a flexibilidade do Linux permitem otimizações profundas para seus softwares proprietários como o RenderMan, crucial para a criação visual de filmes icônicos.",
+        "temas": [
+            "Cinema",
+            "Linux",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "Estúdios de animação e infraestrutura de TI.",
+        "id": 2
+    },
+    {
+        "titulo": "MIDI: A Linguagem Universal da Música Digital",
+        "curiosidade": "O protocolo MIDI (Musical Instrument Digital Interface), criado nos anos 80, revolucionou a música ao permitir que instrumentos eletrônicos 'conversassem' entre si. É, essencialmente, uma linguagem de programação para hardware musical, descrevendo eventos como notas, pitch bends e controles, e ainda é fundamental em DAWs e controladores modernos.",
+        "temas": [
+            "Música",
+            "Programação",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "História e arquitetura do protocolo MIDI.",
+        "id": 3
+    },
+    {
+        "titulo": "Brian May: Guitarra, Ciência e Espaço",
+        "curiosidade": "Brian May e seu pai (um engenheiro eletricista) construíram a guitarra Red Special (ou The Old Lady) à mão em 1963. O braço foi feito de madeira de uma lareira antiga. A escala de 24 trastes é de carvalho de uma mesa velha. A alavanca de tremolo (vibrato) foi feita com peças de um suporte de alforje de bicicleta e molas de válvula de motocicleta. Para o seu som característico (um sustain quase infinito), Brian May aplicou princípios de acústica e vibração. Ele garantiu que a Red Special tivesse um braço grosso (maior massa), um corpo semi-oco e, crucialmente, uma ponte sem atrito (usando pequenos rolamentos). O Toque Único: O uso da moeda de 6 pence como palheta não é só um charme: as bordas serrilhadas da moeda interagem de forma diferente com as cordas de níquel, criando uma variedade de timbres harmônicos controlados (flautados ou rasgados) que dependem da física do ângulo de ataque.",
+        "temas": [
+            "Cinema",
+            "Música",
+            "Física"
+        ],
+        "fonte_sugerida": "A Red Special e a Física Aplicada.",
+        "id": 4
+    },
+    {
+        "titulo": "Git: Revolução na Colaboração de Código, Nascida no Linux",
+        "curiosidade": "Linus Torvalds, o criador do Linux, desenvolveu o Git em 2005 para gerenciar o desenvolvimento distribuído do kernel Linux. Esta ferramenta de controle de versão, hoje onipresente na programação, é um testemunho da capacidade de Linus em resolver problemas complexos com soluções elegantes e eficientes, impulsionando a tecnologia de software globalmente.",
+        "temas": [
+            "Linux",
+            "Programação",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "História do Git e desenvolvimento de kernel Linux.",
+        "id": 5
+    },
+    {
+        "titulo": "Roqueiro e a Astrofísica e a Carreira Científica",
+        "curiosidade": "Brian May iniciou seu PhD em Astrofísica no Imperial College London nos anos 70, estudando a velocidade radial das partículas de poeira zodiacal. Ele abandonou a pesquisa em 1974 com o sucesso explosivo do Queen. Ele retornou aos estudos e concluiu seu doutorado em 2007 (aos 60 anos), defendendo sua tese sobre o mesmo tema: A Survey of Radial Velocities in the Zodiacal Dust Cloud.",
+        "temas": [
+            "Música",
+            "Astrofísica",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "Roqueiro e a Astrofísica e a Carreira Científica.",
+        "id": 6
+    },
+    {
+        "titulo": "Ardour: O DAW Profissional Open Source no Linux",
+        "curiosidade": "Ardour é um Digital Audio Workstation (DAW) de código aberto e nível profissional, que se destaca no ecossistema Linux. Ele oferece recursos avançados para gravação, mixagem e masterização, provando que programação aberta pode rivalizar com softwares comerciais, e tornando o Linux uma plataforma viável para músicos e engenheiros de áudio.",
+        "temas": [
+            "Linux",
+            "Música",
+            "Programação"
+        ],
+        "fonte_sugerida": "Software de áudio profissional e código aberto.",
+        "id": 7
+    },
+    {
+        "titulo": "Ray Tracing no Cinema: Além dos Games",
+        "curiosidade": "A técnica de ray tracing, popularizada em jogos, é fundamental há décadas na programação de renderização de filmes, simulando o caminho da luz para criar imagens realistas com reflexos e sombras precisas. Estúdios utilizam algoritmos complexos e vasto poder computacional para animar cada quadro com detalhes fotorrealistas para o cinema.",
+        "temas": [
+            "Cinema",
+            "Programação",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "Gráficos computacionais e renderização 3D.",
+        "id": 8
+    },
+    {
+        "titulo": "Theremin: O Som Fantasma da Era Sci-Fi e Pop",
+        "curiosidade": "Criado em 1920, o Theremin é um dos primeiros instrumentos eletrônicos, controlado sem toque físico. Seu som etéreo, produzido por campos eletromagnéticos (uma tecnologia inovadora), fascinou a música clássica, o pop (Beach Boys) e o cinema (trilhas de ficção científica e terror), marcando um ponto de virada na expressão musical.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Cinema"
+        ],
+        "fonte_sugerida": "História dos instrumentos eletrônicos e sound design.",
+        "id": 9
+    },
+    {
+        "titulo": "Android: O Gigante Móvel com Coração Linux",
+        "curiosidade": "O sistema operacional Android, que domina o mercado de smartphones, é construído sobre o kernel Linux. Essa escolha técnica permite a robustez, segurança e flexibilidade necessárias para milhões de dispositivos, demonstrando o impacto da programação open source no dia a dia da tecnologia de consumo global.",
+        "temas": [
+            "Linux",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "Arquitetura do Android e sistemas operacionais móveis.",
+        "id": 10
+    },
+    {
+        "titulo": "Brian May e a NASA (Missão OSIRIS-REx)",
+        "curiosidade": "Especialista em Imagens Estéreo, o papel principal de Brian May em projetos espaciais é como especialista em Estereoscopia. Aplicações Tecnológicas: Ele e sua colaboradora, Claudia Manzoni, usam a técnica de estereoscopia (que simula a visão binocular humana) para criar imagens em 3D a partir de pares de fotos 2D tiradas por sondas espaciais, como a OSIRIS-REx. Escolha do Local de Pouso: Na missão OSIRIS-REx, que coletou amostras do asteroide Bennu em 2020, as imagens 3D criadas por May foram cruciais para a equipe da NASA. Elas permitiram que os engenheiros visualizassem e sentissem o terreno rochoso do asteroide, ajudando a selecionar o local de pouso mais seguro para a sonda coletar as amostras.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "Engenharia de dados e algoritmos de recomendação.",
+        "id": 11
+    },
+    {
+        "titulo": "Bullet Time: Uma Ilusão de Programação e Câmeras",
+        "curiosidade": "O efeito 'Bullet Time' popularizado em 'Matrix' é um marco visual que combina dezenas de câmeras sincronizadas e programação complexa. A tecnologia digital permitiu interpolar quadros e criar um movimento fluido em câmera lenta extrema, alterando a percepção do tempo cinematográfico através de código e engenharia visual.",
+        "temas": [
+            "Cinema",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "Efeitos visuais em cinema e história da 'Bullet Time'.",
+        "id": 12
+    },
+    {
+        "titulo": "Kdenlive: Edição de Vídeo Open Source no Linux",
+        "curiosidade": "Kdenlive é um editor de vídeo não-linear de código aberto, robusto e disponível para Linux, que prova a capacidade do software livre em lidar com tarefas complexas de pós-produção cinematográfica. Sua interface intuitiva e recursos avançados são desenvolvidos pela comunidade, democratizando o acesso a ferramentas de programação e edição de vídeo.",
+        "temas": [
+            "Linux",
+            "Cinema",
+            "Programação"
+        ],
+        "fonte_sugerida": "Editores de vídeo open source e a comunidade KDE.",
+        "id": 13
+    },
+    {
+        "titulo": "Wendy Carlos e a Síntese Clássica Eletrônica",
+        "curiosidade": "Wendy Carlos revolucionou a música clássica e o cinema com o uso de sintetizadores Moog nos anos 60 e 70. Seu álbum 'Switched-On Bach' e trilhas sonoras como 'Laranja Mecânica' mostraram como a tecnologia eletrônica, com sua 'programação' sonora, podia reinterpretar obras clássicas e criar paisagens sonoras futuristas para o cinema.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Cinema"
+        ],
+        "fonte_sugerida": "História dos sintetizadores Moog e pioneiros da música eletrônica.",
+        "id": 14
+    },
+    {
+        "titulo": "Servidores Web: Pilares Linux da Internet Moderna",
+        "curiosidade": "Softwares de servidor web como Apache e NGINX, frequentemente executados em sistemas Linux, são a base programática da internet. Eles processam requisições HTTP e entregam conteúdo, sendo exemplos cruciais de como a tecnologia open source impulsiona a infraestrutura digital global, do marketing à comunicação.",
+        "temas": [
+            "Tecnologia",
+            "Linux",
+            "Programação"
+        ],
+        "fonte_sugerida": "Arquitetura de servidores web e sistemas operacionais.",
+        "id": 15
+    },
+    {
+        "titulo": "Auto-Tune: Correção Vocal e Revolução Pop",
+        "curiosidade": "O Auto-Tune, lançado em 1997, transformou a produção musical. Originalmente uma ferramenta de correção sutil, seu uso exagerado e criativo por artistas pop (como Cher em 'Believe') o tornou uma assinatura sonora, um algoritmo de programação de áudio que redefine a perfeição vocal e a estética de uma era na música.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "História do Auto-Tune e seu impacto na indústria musical.",
+        "id": 16
+    },
+    {
+        "titulo": "Blender: O Poder do 3D Open Source para o Cinema",
+        "curiosidade": "Blender é um software de modelagem, animação e renderização 3D de código aberto, amplamente utilizado em produções cinematográficas independentes e até em grandes estúdios, muitas vezes rodando em Linux. Ele demonstra o potencial da tecnologia livre para democratizar ferramentas de programação visual complexas, antes restritas a softwares proprietários caros.",
+        "temas": [
+            "Cinema",
+            "Tecnologia",
+            "Linux"
+        ],
+        "fonte_sugerida": "Software 3D open source e sua aplicação em VFX.",
+        "id": 17
+    },
+    {
+        "titulo": "Hedy Lamarr e o Salto de Frequência",
+        "curiosidade": "A atriz Hedy Lamarr co-patenteou o sistema de salto de frequência (frequency hopping) que usa a sincronização de dois instrumentos (piano rolls) para mudar o sinal de rádio. Esta tecnologia é o princípio fundamental de espectro espalhado usado hoje no Wi-Fi e no Bluetooth.",
+        "temas": [
+            "Cinema",
+            "Programação",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "Hedy Lamarr e o Salto de Frequência",
+        "id": 18
+    },
+    {
+        "titulo": "Linux: Espinha Dorsal da Web Moderna e Streaming",
+        "curiosidade": "A vasta maioria dos servidores web que hospedam sites, aplicativos e serviços de streaming (incluindo aqueles que entregam música e filmes) rodam em sistemas Linux. Sua estabilidade, segurança e natureza de código aberto o tornam a escolha preferencial para programação de infraestrutura, fundamental para a experiência de front-end global.",
+        "temas": [
+            "Linux",
+            "Programação",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "Estatísticas de uso de sistemas operacionais em servidores.",
+        "id": 19
+    },
+    {
+        "titulo": "Hedy Lamarr e o Design de Aviões",
+        "curiosidade": "Durante a Segunda Guerra Mundial, além de sua invenção tecnológica, Hedy Lamarr se reuniu com o excêntrico bilionário Howard Hughes e o aconselhou sobre o design de suas aeronaves, buscando torná-los mais hidrodinâmicos para o esforço de guerra.",
+        "temas": [
+            "Cinema",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "Hedy Lamarr e o Design de Aviões",
+        "id": 20
+    },
+    {
+        "titulo": "Gravação Digital: Do Analógico ao Bit Rock'n'Roll",
+        "curiosidade": "A transição da gravação analógica para a digital nos anos 80 revolucionou a música, especialmente o rock e o pop, permitindo edições não-destrutivas, mixagens complexas e a proliferação de home studios. Essa tecnologia de programação de áudio transformou a produção, otimizando fluxos de trabalho e abrindo novas possibilidades criativas para artistas.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "História da gravação de áudio e DAW.",
+        "id": 21
+    },
+    {
+        "titulo": "Rhythm & Hues: Linux nos Bastidores dos Efeitos Visuais",
+        "curiosidade": "Estúdios de efeitos visuais renomados como o antigo Rhythm & Hues (conhecido por 'A Vida de Pi') foram pioneiros no uso de sistemas Linux para suas render farms massivas e estações de trabalho. A flexibilidade do Linux e a capacidade de personalizar o kernel e o ambiente de programação eram cruciais para otimizar os softwares de VFX, demonstrando seu papel vital no cinema.",
+        "temas": [
+            "Linux",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Infraestrutura de TI em estúdios de VFX.",
+        "id": 22
+    },
+    {
+        "titulo": "O Domínio dos Supercomputadores",
+        "curiosidade": "Mais de 90% dos 500 supercomputadores mais rápidos do mundo rodam sistemas baseados em Linux. Essa prevalência se deve ao seu código aberto, que permite personalização e otimização para cargas de trabalho de computação científica massiva (usadas em modelagem climática e física de partículas).",
+        "temas": [
+            "Linux",
+            "Programação",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "O Domínio dos Supercomputadores e o Linux",
+        "id": 23
+    },
+    {
+        "titulo": "JACK Audio: O Coração Sonoro do Linux Criativo",
+        "curiosidade": "JACK Audio Connection Kit (JACK) é um servidor de som profissional para Linux que permite a baixa latência e a interconexão de vários aplicativos de áudio, como se estivessem 'programados' para funcionar juntos. Essa tecnologia é crucial para músicos e engenheiros de som que usam Linux para produção, transformando o sistema em um estúdio virtual modular.",
+        "temas": [
+            "Tecnologia",
+            "Programação",
+            "Música",
+            "Linux"
+        ],
+        "fonte_sugerida": "Áudio de baixa latência em Linux e arquitetura JACK.",
+        "id": 24
+    },
+    {
+        "titulo": "The Wall: Rock, Cinema e Narrativa Visual",
+        "curiosidade": "O filme 'Pink Floyd – The Wall' (1982) é um exemplo primoroso de como a música rock pode se fundir com o cinema para criar uma narrativa complexa e visualmente impactante. A sincronia entre a trilha sonora icônica e a cinematografia experimental demonstra uma abordagem tecnológica avançada para a época na edição audiovisual, ampliando os limites da expressão artística.",
+        "temas": [
+            "Música",
+            "Cinema",
+            "Tecnologia"
+        ],
+        "fonte_sugerida": "História da música rock no cinema e filmes conceituais.",
+        "id": 25
+    },
+    {
+        "titulo": "Jimmy Page: Do Estúdio de Cinema ao DNA do Rock",
+        "curiosidade": "Antes de formar o Led Zeppelin, ele era um dos mais requisitados músicos de estúdio em Londres na década de 1960 e participou na gravação da música-tema do filme 'Goldfinger' (1964), no Abbey Road Studios. Page foi um dos pioneiros no uso do famoso Tone Bender. Caixa, baseada em tecnologia de transistores, transformava o som limpo da guitarra em uma distorção agressiva, além dos pedais, Page aplicou técnicas não convencionais de microfonação, como o uso da distância para capturar o som da sala (o chamado distance miking), e a gravação em diferentes velocidades.",
+        "temas": [
+            "Música",
+            "Cinema",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "Jimmy Page: Do Estúdio de Cinema ao DNA do Rock",
+        "id": 26
+    },
+    {
+        "titulo": "Linux no Coração da Edição de Áudio Profissional",
+        "curiosidade": "Analisa como o sistema operacional Linux, com seu kernel otimizado e ferramentas como ALSA e JACK, se tornou a espinha dorsal de estúdios de gravação profissionais e pós-produção de áudio para cinema, habilitando fluxos de trabalho de alta performance e baixa latência através de programação de drivers e sistemas.",
+        "temas": [
+            "Linux",
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Linux Audio, Áudio Profissional em Open Source, Kernel Real-Time",
+        "id": 27
+    },
+    {
+        "titulo": "Sintetizadores Modulares: Do Rock Prog ao Som Sci-Fi",
+        "curiosidade": "Aprofunda na história dos sintetizadores modulares, sua programação manual de som e como sua complexa arquitetura influenciou tanto o rock progressivo quanto as trilhas sonoras icônicas de filmes de ficção científica (como 'Blade Runner'), representando um marco na tecnologia sonora e na música eletrônica.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Cinema",
+            "Programação"
+        ],
+        "fonte_sugerida": "História dos Sintetizadores, Design de Som para Cinema",
+        "id": 28
+    },
+    {
+        "titulo": "WebM e Ogg Vorbis: Democratizando Áudio e Vídeo Open Source",
+        "curiosidade": "Discute a importância de codecs abertos como WebM (para vídeo) e Ogg Vorbis (para áudio), desenvolvidos sob a égide do software livre e amplamente suportados por sistemas Linux, na democratização do conteúdo multimídia na web e no cinema independente, impulsionados por programação de compressão de dados.",
+        "temas": [
+            "Tecnologia",
+            "Programação",
+            "Linux",
+            "Música",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Formatos de Áudio e Vídeo Open Source, Histórico da Web Aberta",
+        "id": 29
+    },
+    {
+        "titulo": "Visualização Sonora: De Osciloscópios a Projeções de Shows",
+        "curiosidade": "Examina a evolução da visualização sonora, desde os osciloscópios dos laboratórios de tecnologia até as complexas projeções de shows de rock e pop, muitas vezes controladas por software e programação (e até presentes em filmes), criando uma experiência multimídia que une o som e a imagem.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "História da Visualização de Áudio, VJs e Cultura de Shows",
+        "id": 30
+    },
+    {
+        "titulo": "Dolby Atmos: A Imersão Sonora Programada do Cinema",
+        "curiosidade": "Explora como o sistema Dolby Atmos utiliza algoritmos avançados e programação espacial para criar uma experiência sonora tridimensional e imersiva no cinema, elevando a qualidade musical e os efeitos sonoros a um novo patamar tecnológico, revolucionando a percepção auditiva em filmes.",
+        "temas": [
+            "Cinema",
+            "Tecnologia",
+            "Programação",
+            "Música"
+        ],
+        "fonte_sugerida": "Tecnologias de Áudio Imersivo, Engenharia de Som para Cinema",
+        "id": 31
+    },
+    {
+        "titulo": "Sequenciadores de Hardware: O Ritmo Analógico e Digital",
+        "curiosidade": "Analisa a transição dos sequenciadores de hardware, essenciais na música eletrônica e pop, de dispositivos analógicos para digitais, e como a programação de padrões rítmicos influenciou a composição musical e a produção de trilhas sonoras cinematográficas, marcando a fusão de hardware e software.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "História dos Sequenciadores Musicais, Equipamentos de Estúdio",
+        "id": 32
+    },
+    {
+        "titulo": "Render Farms Linux: O Poder Bruto dos Efeitos Visuais",
+        "curiosidade": "Detalha como as render farms, muitas vezes compostas por milhares de máquinas rodando Linux, fornecem o poder computacional massivo necessário para processar os complexos efeitos visuais e animações 3D que definem o cinema moderno, um triunfo da tecnologia e programação distribuída.",
+        "temas": [
+            "Linux",
+            "Cinema",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "Computação Distribuída em VFX, Estúdios de Animação e Linux",
+        "id": 33
+    },
+    {
+        "titulo": "Plugins de Áudio Open Source: Liberdade Criativa Musical",
+        "curiosidade": "Aborda o universo dos plugins de áudio de código aberto (VST, LADSPA, LV2), muitos desenvolvidos e otimizados para Linux, que oferecem aos músicos e produtores de cinema ferramentas poderosas de processamento e síntese musical sem custos, impulsionados pela programação colaborativa e tecnologia inovadora.",
+        "temas": [
+            "Música",
+            "Programação",
+            "Linux",
+            "Tecnologia",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Software Livre para Produção Musical, Desenvolvimento de Plugins de Áudio",
+        "id": 34
+    },
+    {
+        "titulo": "Virtualização na Produção Musical: Estúdios em Máquinas Virtuais",
+        "curiosidade": "Examina como a tecnologia de virtualização, muitas vezes gerenciada em sistemas Linux, permite a criação de ambientes de estúdio isolados para produção musical e pós-produção de cinema, otimizando recursos e compatibilidade de software de programação, garantindo ambientes controlados para projetos complexos.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Linux",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Virtualização em Áudio e Vídeo, Gerenciamento de Servidores Linux",
+        "id": 35
+    },
+    {
+        "titulo": "Chiptune: A Música dos Chips e a Estética Retrô",
+        "curiosidade": "Explora o gênero Chiptune, que utiliza os chips de som de antigos consoles de videogame e computadores (com programação de baixo nível) para criar música, influenciando trilhas sonoras de filmes independentes e resgatando uma estética tecnológica peculiar que remete aos primórdios da computação.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "História dos Chips de Som, Cultura Retro-Gaming",
+        "id": 36
+    },
+    {
+        "titulo": "Sistema de Arquivos ZFS: Integridade de Dados para Mídia",
+        "curiosidade": "Discute como sistemas de arquivos avançados como ZFS, embora não nativos, são frequentemente utilizados em servidores Linux para gerenciar os vastos volumes de dados de produções cinematográficas e arquivos musicais, garantindo integridade e eficiência através de tecnologia de armazenamento e programação de sistemas robustos.",
+        "temas": [
+            "Linux",
+            "Tecnologia",
+            "Programação",
+            "Cinema",
+            "Música"
+        ],
+        "fonte_sugerida": "Sistemas de Arquivos para Grandes Dados, ZFS e Armazenamento Profissional",
+        "id": 37
+    },
+    {
+        "titulo": "Mod trackers: Programando Música nos Anos 80 e 90",
+        "curiosidade": "Revela a história dos 'trackers' de música, softwares de programação de áudio popularizados em plataformas como Amiga e PC, que permitiam a criação de composições complexas (música) com poucos recursos, influenciando games e a cena demoscene, e até trilhas de filmes de baixo orçamento, um marco da tecnologia musical.",
+        "temas": [
+            "Música",
+            "Programação",
+            "Tecnologia",
+            "Cinema"
+        ],
+        "fonte_sugerida": "História da Música Eletrônica, Demoscene e Trackers",
+        "id": 38
+    },
+    {
+        "titulo": "Kernel Real-Time Linux: Latência Mínima em Áudio/Vídeo",
+        "curiosidade": "Desvenda como versões de kernel Linux de tempo real (RT) são crucialmente importantes para aplicações de áudio e vídeo profissional, garantindo latência mínima para gravação musical e sincronização em pós-produção de cinema, um feito da programação de sistemas e tecnologia que garante precisão temporal.",
+        "temas": [
+            "Linux",
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Sistemas Operacionais de Tempo Real, Otimização de Kernel para Multimídia",
+        "id": 39
+    },
+    {
+        "titulo": "VR e Música Interativa: O Futuro Sonoro do Cinema",
+        "curiosidade": "Explora a convergência da Realidade Virtual (VR) com a música interativa, onde a programação de áudio espacializada cria trilhas sonoras dinâmicas que respondem à ação do usuário, projetando o futuro do cinema imersivo e da experiência musical, um avanço da tecnologia que redefine a narrativa sonora.",
+        "temas": [
+            "Música",
+            "Cinema",
+            "Tecnologia",
+            "Programação"
+        ],
+        "fonte_sugerida": "Realidade Virtual e Áudio, Design de Som Interativo",
+        "id": 40
+    },
+    {
+        "titulo": "Controladores MIDI: A Ponte Física para o Software Musical",
+        "curiosidade": "Aborda a importância dos controladores MIDI, dispositivos que traduzem movimentos físicos em dados digitais, permitindo aos músicos interagir com softwares de produção musical e controlar sintetizadores em tempo real, essenciais na tecnologia de shows de rock/pop e na composição de trilhas para cinema através da programação de instrumentos virtuais.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Protocolo MIDI, Controladores Musicais e Interface Humano-Máquina",
+        "id": 41
+    },
+    {
+        "titulo": "Codecs H.264/HEVC: A Compressão Essencial para Streaming",
+        "curiosidade": "Detalha como codecs de compressão de vídeo como H.264 e HEVC, resultantes de complexa programação algorítmica e avanços tecnológicos, se tornaram a espinha dorsal do streaming de filmes e música, otimizando a entrega de conteúdo em diversas plataformas, inclusive muitas baseadas em Linux.",
+        "temas": [
+            "Cinema",
+            "Tecnologia",
+            "Programação",
+            "Música",
+            "Linux"
+        ],
+        "fonte_sugerida": "Engenharia de Compressão de Vídeo, História do Streaming",
+        "id": 42
+    },
+    {
+        "titulo": "Software de Partitura Open Source: MuseScore e a Composição",
+        "curiosidade": "Descreve como softwares de partitura de código aberto, como MuseScore, desenvolvidos sob princípios de programação colaborativa e operáveis em Linux, revolucionaram a composição musical e a educação, democratizando o acesso a ferramentas profissionais de criação musical para artistas e cineastas que precisam de notação precisa.",
+        "temas": [
+            "Música",
+            "Programação",
+            "Linux",
+            "Tecnologia",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Software para Composição Musical, Educação Musical e Tecnologia",
+        "id": 43
+    },
+    {
+        "titulo": "Digital Audio Workstations (DAW): O Estúdio na Tela",
+        "curiosidade": "Aprofunda na evolução das DAWs (Digital Audio Workstations), que transformaram computadores (muitas vezes Linux-based em estúdios) em estúdios de gravação completos, integrando tecnologia, programação e processamento de áudio para produzir música e trilhas sonoras para o cinema, desde a gravação à masterização.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Linux",
+            "Cinema"
+        ],
+        "fonte_sugerida": "História das DAWs, Estúdios de Gravação Digital",
+        "id": 44
+    },
+    {
+        "titulo": "Home Studios: A Democratização da Produção Musical",
+        "curiosidade": "Explora como a popularização da tecnologia de gravação digital e a disponibilidade de softwares de programação musical acessíveis, muitos compatíveis com Linux, permitiram a ascensão dos home studios, democratizando a produção musical e a criação de trilhas sonoras independentes para o cinema, transformando a indústria.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Linux",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Revolução da Gravação Digital, Produção Musical Independente",
+        "id": 45
+    },
+    {
+        "titulo": "Osciloscópios e Sintetizadores: A Arte Visual do Som",
+        "curiosidade": "Explora como osciloscópios, originalmente ferramentas tecnológicas para visualizar ondas elétricas, se tornaram instrumentos de arte visual para a música eletrônica e pop, permitindo a 'programação' de formas de onda que influenciaram o design de som para filmes de ficção científica, criando uma fusão única de som e imagem.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Arte Sonora e Visual, História da Síntese de Áudio",
+        "id": 46
+    },
+    {
+        "titulo": "Redes Neurais na Produção de Música e Efeitos Sonoros",
+        "curiosidade": "Analisa o uso crescente de redes neurais e algoritmos de aprendizado de máquina, um campo avançado da programação e tecnologia, para gerar música original e criar efeitos sonoros complexos em produções cinematográficas, abrindo novas fronteiras para a criatividade sonora e a experimentação musical.",
+        "temas": [
+            "Música",
+            "Tecnologia",
+            "Programação",
+            "Cinema"
+        ],
+        "fonte_sugerida": "Inteligência Artificial em Áudio, Design de Som Algorítmico",
+        "id": 47
+    }
+]

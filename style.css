@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    /* Azul Marítimo */
+    --primary-color: #3876BF; 
+    /* Cor de fundo Dark Blue/Marítimo */
+    --bg-color: #0A192F; 
+    --secondary-color: #e8eaed; 
+    --tertiary-color: #9aa0a6; 
+}
+
+body {
+    margin: 0;
+    background: var(--bg-color);
+    color: var(--secondary-color);
+    font-family: "Quicksand", sans-serif;
+}
+
+header {
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--bg-color);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ------------------------------------------- */
+/* NOVO EFEITO: Sublinhado Duplo (hover-underline) */
+/* ------------------------------------------- */
+
+header h1 {
+    font-size: 2rem;
+    /* Removemos a lógica de hover anterior daqui */
+}
+
+.hover-underline {
+    /* Configurações de posicionamento para a expansão */
+    position: relative;
+    display: inline-block;
+    cursor: default; 
+    /* Não precisa de font-size/color, pois herda do header h1 */
+}
+
+.hover-underline::after,
+.hover-underline::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    /* Degradê de Vermelho (#ff0000) para Ciano/Azul (#00ffff) */
+    background: linear-gradient(to right, #ff0000, #00ffff);
+    
+    /* Configuração inicial: escondida (scaleX(0)) */
+    transform: scaleX(0);
+    transition: transform 0.4s ease-out;
+}
+
+/* Linha de Baixo */
+.hover-underline::after {
+    bottom: -5px;
+    left: 0;
+    transform-origin: right; /* Expande da direita para esquerda */
+}
+
+/* Linha de Cima */
+.hover-underline::before {
+    top: -5px;
+    left: 0;
+    transform-origin: left; /* Expande da esquerda para direita */
+}
+
+/* Efeito HOVER: Expande ambas as linhas */
+.hover-underline:hover::after,
+.hover-underline:hover::before {
+    transform: scaleX(1);
+}
+/* ------------------------------------------- */
+
+
+/* Seção de Busca e Botão */
+div input {
+    background: var(--bg-color);
+    border: 1px solid var(--primary-color);
+    color: var(--secondary-color);
+    padding: 0.5rem;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    transition: border-color 0.3s;
+}
+
+div input:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+}
+
+div input::placeholder {
+    color: var(--tertiary-color);
+}
+
+button {
+    background: var(--primary-color);
+    color: var(--secondary-color);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background: #6DA0E4; 
+}
+
+
+/* Estilos dos Cards */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.card {
+    background: #1C2945; 
+    border-radius: 10px;
+    padding: 1.5rem;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-left: 5px solid var(--primary-color);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.card h2 {
+    color: var(--primary-color);
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
+.card p {
+    font-size: 1rem;
+    line-height: 1.4;
+    color: var(--secondary-color);
+}
+
+/* Tags para o novo projeto */
+.card .tags {
+    margin-top: 1rem;
+}
+
+.card .tags span {
+    display: inline-block;
+    background: #0088A8;
+    color: var(--secondary-color);
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.footer {
+    padding: 1rem;
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.footer-links a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #fff;
+}
