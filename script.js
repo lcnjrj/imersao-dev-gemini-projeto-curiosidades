@@ -1,3 +1,4 @@
+/*Busca Funcionando por palavras chave.  Data.json tem 47 entradas*/
 let cardContainer = document.querySelector(".card-container");
 let campoBusca = document.querySelector("header input");
 let dados = []; // Armazena todos os dados do JSON
