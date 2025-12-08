@@ -52,7 +52,6 @@ O projeto transforma um backend alimentado por IA em uma experiência de usuári
 ### Backend
 - **Node.js** - Runtime JavaScript
 - **Gemini API** (Google AI) - Modelo de Linguagem para geração de conteúdo
-- **Express.js** *(se usado)* - Roteamento de API
 
 ### Frontend
 - **HTML5** - Estrutura
@@ -94,19 +93,7 @@ O projeto transforma um backend alimentado por IA em uma experiência de usuári
    ```bash
    npm start
    ```
-
-5. **Acesse a aplicação**
-   
-   Abra seu navegador e navegue até:
-   ```
-   http://localhost:3000
-   ```
-
----
-
-``
-
----
+--
 
 ## 💡 Como Funciona (Simulação, pois O Fluxo backEnd está desativado )  
 
@@ -151,14 +138,6 @@ Este projeto é open source e está disponível sob a [Licença MIT](LICENSE).
 ## 👤 Autora
 
 **Luciana J de Faria**
-
-- GitHub: [@lcnjrj](https://github.com/lcnjrj)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- Portfolio: [lcnjrj.github.io/portfolio_2025](https://lcnjrj.github.io/portfolio_2025/)
-
----
-
-
 
 #ImersãoAluraDEV #GoogleGemini #JavaScript 
 #ImersãoAlura @Alura #DesenvolvimentoWeb #IA #Portfólio
