@@ -104,26 +104,11 @@ O projeto transforma um backend alimentado por IA em uma experiência de usuári
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-imersao-dev-gemini-projeto-curiosidades/
-├── backend/
-│   ├── server.js          # Configuração do servidor Node.js
-│   ├── gemini-client.js   # Integração com API Gemini
-│   └── routes/            # Endpoints da API
-├── frontend/
-│   ├── index.html         # Estrutura HTML principal
-│   ├── styles.css         # Estilização
-│   └── script.js          # Lógica client-side
-├── .env.example           # Template de variáveis de ambiente
-├── package.json           # Dependências do projeto
-└── README.md              # Este arquivo
-```
+``
 
 ---
 
-## 💡 Como Funciona
+## 💡 Como Funciona (Simulação, pois O Fluxo backEnd está desativado )  
 
 ### Fluxo Backend
 1. Cliente solicita uma curiosidade via botão no frontend
@@ -143,40 +128,8 @@ imersao-dev-gemini-projeto-curiosidades/
 
 ## 🎨 Screenshots
 
-![Interface do Terminal de Curiosidades](./screenshots/main-interface.png)
-*Interface principal com curiosidade gerada*
-
-> **Nota:** Adicione screenshots à pasta `screenshots/` para melhor documentação
-
----
-
-## 🧪 Endpoints da API
-
-### `GET /api/curiosity`
-Retorna uma curiosidade gerada aleatoriamente pelo Gemini IA.
-
-**Resposta:**
-```json
-{
-  "success": true,
-  "curiosity": "Você sabia que os polvos têm três corações?",
-  "timestamp": "2024-12-05T10:30:00Z"
-}
-```
-
-### `POST /api/curiosity` *(se implementado)*
-Gera curiosidade sobre tópico específico.
-
-**Corpo da Requisição:**
-```json
-{
-  "topic": "espaço"
-}
-```
-
----
-
-
+![Interface do Terminal de Curiosidades](https://github.com/lcnjrj/imersao-dev-gemini-projeto-curiosidades/blob/main/screen-00.jpg)
+![Interface do Terminal de Curiosidades](https://github.com/lcnjrj/imersao-dev-gemini-projeto-curiosidades/blob/main/screen-01.jpg)
 ## 📝 Principais Aprendizados
 
 Trabalhar neste projeto me ensinou:
